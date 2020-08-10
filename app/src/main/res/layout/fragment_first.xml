@@ -15,7 +15,7 @@
         android:background="#2196F3"
         android:paddingLeft="16dp"
         android:paddingRight="16dp"
-        android:text="Remove to cart"
+        android:text="Add to cart"
         android:textColor="#FFFDFD"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView" />
